@@ -1,11 +1,11 @@
-attrs==19.3.0
-more-itertools==8.4.0
-packaging==20.4
+-i https://pypi.org/simple/
+attrs==20.3.0
+more-itertools==8.7.0
+packaging==20.9
 pluggy==0.13.1
-py==1.9.0
 py4j==0.10.9
+py==1.10.0
 pyparsing==2.4.7
 pyspark==3.0.0
 pytest==5.4.3
-six==1.15.0
 wcwidth==0.2.5
